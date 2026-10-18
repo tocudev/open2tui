@@ -3,6 +3,5 @@
 
 > [!TIP]
 > You MUST have opencode installed for this wrapper to work
-
 <div align="center">
   <img src="banner.png" alt="opencode 2tui banner" width="100%" />
